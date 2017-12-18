@@ -291,7 +291,7 @@ body a:hover,body a:focus{
     letter-spacing: 5px;
     position: absolute;
     top: -17%;
-    left: 17%;
+    right:0;
     font-family: 'Playfair Display', serif;
      text-align: right;
 } 
