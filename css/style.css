@@ -284,6 +284,7 @@ body a:hover,body a:focus{
    
 }
 .banner-text h2 span {
+	 text-align:right;
     font-size: .2em;
     color: #fff;
     font-style: italic;
@@ -294,7 +295,7 @@ body a:hover,body a:focus{
     right: 0;
 
     font-family: 'Playfair Display', serif;
-    text-align:right;
+   
 } 
 .banner-text h2:first-letter {
     font-size: 1.5em;
